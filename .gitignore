@@ -1,0 +1,10 @@
+*.pyc
+*~
+__pycache__
+bin
+db.sqlite3
+/static
+.DS_Store
+lib
+pyvenv.cfg
+.idea
